@@ -1,0 +1,16 @@
+--- PRE-TABLE PARAGRAPHS ---
+Lab 01 Python Essentials for NLP
+
+Task 01: Strings as Text Storage
+Topic: String (str) Core Python Data Structure
+(a)  Store the sentence "Artificial Intelligence is transforming Natural Language Processing" in a variable called sentence. Print the sentence, its data type using type(), and its total number of characters using len().
+(b)  Using the sentence from part (a), extract and print: the first word using slicing, the last character using negative indexing, and the word "Language" using a specific slice range.
+(c)  Check whether the word "Intelligence" exists in the sentence using the in operator. Then find and print its starting index position using an appropriate string method. Print True or False for the existence check.
+(d)  Create a multi-line string called paragraph that contains three different NLP-related sentences. Split the paragraph by newline character to get a list of sentences and print each sentence on its own line.
+
+--- TABLE DATA ---
+Name | Age | Department | Score
+Ali | 20 | Data Science | 85
+Sara | 21 | Computer Science | 91
+Ahmed | 22 | Software Engineering | 78
+Hina | 20 | Data Science | 88

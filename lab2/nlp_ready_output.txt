@@ -1,0 +1,80 @@
+lab python essentials nlp task strings text storage topic string str core python data structure store sentence artificial intelligence transforming natural language processing variable called sentence
+print sentence data type using type total number characters using len
+b using sentence part extract print first word using slicing last character using negative indexing word language using specific slice range
+c check whether word intelligence exists sentence using operator
+find print starting index position using appropriate string method
+print true false existence check
+create multi line string called paragraph contains three different nlp related sentences
+split paragraph newline character get list sentences print sentence line
+task lists token management topic list list core python data structure create list called tokens containing words deep learning helps machines understand text
+print full list length element index last element using negative indexing
+b perform print result operations tokens list append word efficiently end ii insert computers index iii remove word helps value
+c create two token lists tokensa nlp uses python tokensb text analysis
+concatenate one list called fulltokens using operator
+prin combined list use slicing print last three elements
+using fulltokens part c sort list alphabetically store sortedtokens
+use sorted function keylen sort word length store lengthsorted
+print sorted lists explain comment sorting useful nlp
+task dictionaries word mapping topic dictionary dict core python data structure build dictionary called wordfreq stores following word frequency pairs machine learning data model text
+print dictionary retrieve frequency learning update frequency data
+b add two new entries wordfreq neural network
+delete entry model using del keyword
+finally check whether key text exists dictionary using operator print suitable message
+c create word toid dictionary called vocab nlp python token vector corpus
+build reverse idtoword ids keys words values
+loop wordfreq dictionary print key value pair format word mach ine frequency
+end print total number unique words stored dictionary
+task sets unique vocabulary topic set set core python data structure create list called raw nlp ai nlp deep learning ai nlp python
+print raw vocab print number unique words
+explain comment sets remove duplicates automatically
+b create seta machine learning data model setb deep learning neural data
+compute print union sets ii intersection words common iii difference seta setb words
+c define stopwords set stopwords
+given token list tokens nlp field ai future use set difference remove stopwords print cleaned tokens
+starting vocab set par add words transformer bert using appropriate method
+remove python using discard method
+use operator check whether ai still present print final set
+task tuples fixed linguistic data topic tuple tuple core python data structure create list called postags containing word tag tuples language noun processes verb human adj text noun quickly adv
+print entire list access eparately print word tag second tuple using indexing
+b unpack first tuple postags two variables named word tag
+write try except block attempts change tag first tuple verb prints exact error message python raises
+c write function called extractnounsposlist takes list word tag tuples returns new list containing words tag noun
+call function postags print returned list
+create tuple called pipelinesteps loaddata cleantext tokenize removestopwords vectorize
+use index method find position tokenize
+print total nu mber steps demonstrate tuple cannot modified trying delete one element inside try except block
+task string cleaning methods topic string methods lower upper strip split join replace given text machine lea rning amazing apply methods one one print result step strip remove leading trailing spaces ii lower normalise case iii replace remove characters
+b take cleaned text p art
+use split tokenise list words print list
+use upper word inside list comprehension print uppercase list
+finally use join separator combine uppercase words back sing le string
+c create string sentence love java java popular
+use replace substitute every occurrence java python
+use find locate starting position first occurrence python updated sentence print
+write function called normalizetext takes raw string returns clean version stripping whitespace converting lowercase replacing commas full stops empty string
+test function least wo messy input strings print cleaned output
+task string validation methods topic string methods find startswith endswith isdigit isalpha given text nlp future ai research use startswith check whether th e text begins nlp endswith check whether ends research
+use find get position word future string
+b create mixed list tokens hello world abc python nlp
+loop list token print whether purely alphabetic isalpha purely numeric isdigit mixed
+c given list words running jumped nlp ai data
+use loop isalpha isdigit separate list three groups purewords purenumbers mixedtokens
+write function called validatetokentoken returns string word token purely alphabetic number purely numeric mixed otherwise
+apply function element list chat gpt bert nlp using loop print token alongside label
+task functions lambd nlp pipelines topic functions lambda reusable text processing write regular function called cleantext takes string strips whitespace converts lowercase returns result
+write equivalent lambda function calle cleanlambda performs two operations one line
+test string hello natural language processing print outputs
+b write function called tokenizetext takes cleaned string returns list individ ual word tokens using split
+write another function called removeshorttokens n takes token list integer n returns tokens whose length greater n
+chain functions sentence love working nlp tool python daily n print result
+c write function called wordlengthstokens takes list tokens returns dictionary key word value length word
+call function tokens language model ai processing deep print resulting dictionary
+combine functions parts b c full pipeline function called nlppipelinetext minlen cleans text tokenises removes short word returns length dictionary
+call pipeline two different sentences print outputs
+task map filter sorted counter topic map filter sorted lambda collections
+counter given words python nlp powerful tool text
+use map lambda convert every word lowercase print result list ii compute character length word print result list
+b using words list apply filter lambda create two filtered lists wordslong words characters ii wordswitht words containing letter case insensitive
+c sort words list using sorted three different ways print result label alphabetically default order ii word length ascending using keylen iii word length descending using reversetrue
+given sentence nlp nlp python ai nlp python text ai nlp python text split words create counter called freq
+print full counter print common words using mostcommon ii frequency word pyth iii total number words size unique vocabulary
